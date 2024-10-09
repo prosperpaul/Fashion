@@ -40,7 +40,7 @@ const App = () => {
   
   <div className="absolute top-1/2 left-4 transform -translate-y-1/2 p-2 md:left-10 md:p-4">
     <h1 className="text-4xl text-white md:text-5xl">Jane's</h1>
-    <h1 className="text-5xl font-bold text-white md:text-7xl md:blocl hidden">FASHION BLOG</h1>
+    <h1 className="text-5xl font-bold text-white md:text-7xl md:block hidden">FASHION BLOG</h1>
 
     
     <div className="mt-4">
